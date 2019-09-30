@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bottega-code-school/js-builder.git"
+    "url": "git@github.com:/bcpereira12/react-portfolio"
   },
   "keywords": [
     "es6",
@@ -28,9 +28,9 @@
   "author": "Bianca Pereira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bottega-code-school/js-builder/issues"
+    "url": "https://github.com/bcpereira12/react-portfolio/issues"
   },
-  "homepage": "https://github.com/bottega-code-school/js-builder",
+  "homepage": "https://github.com/bcpereira12/react-portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
@@ -62,7 +62,7 @@
     "html-to-draftjs": "^1.4.0",
     "html-webpack-plugin": "^3.2.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^12.7.0",
     "postcss-loader": "^2.1.6",
     "react": "16.8.0",
     "react-dom": "16.8.0",
