@@ -2,7 +2,6 @@
   "name": "react-redux-router",
   "version": "1.0.0",
   "description": "Basic skeleton codebase for React/Redux/Router applications.",
-  "proxy": "https://devcamp.space",
   "scripts": {
     "preinstall": "npm set audit false",
     "postinstall": "cp env.example.js env.js",
